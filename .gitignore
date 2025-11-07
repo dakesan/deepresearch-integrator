@@ -1,0 +1,24 @@
+# DeepResearch Integrator .gitignore
+
+# Generated/processed files
+examples/processed/
+examples/technology-trends-2025.md
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# User-specific Claude Code files (if any)
+.claude/local/
